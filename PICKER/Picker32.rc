@@ -1,0 +1,50 @@
+// Delphi Resource File
+// Generated - 11/08/96 @ 16:40:35
+
+// Version Info
+
+1 VERSIONINFO
+FILEVERSION 0, 0, 0, 0
+PRODUCTVERSION 0, 0, 0, 0
+FILEOS VOS_DOS_WINDOWS16
+FILETYPE VFT_APP
+{
+ BLOCK "StringFileInfo"
+  {
+  BLOCK "040904E4"
+   {
+    VALUE "CompanyName", "Paglis Software\000"
+    VALUE "FileDescription", "\000"
+    VALUE "FileVersion", "11/08/96 @ 16:33 1.0\000"
+    VALUE "InternalName", "\000"
+    VALUE "LegalCopyright", "Copyright 1996 © sunil@magnetic.demon.co.uk\000"
+    VALUE "OriginalFilename", "\000"
+   }
+  }
+ BLOCK "VarFileInfo"
+ {
+  VALUE "Translation", 1033, 1252
+ }
+}
+
+// Verinfo Ends
+
+// Defines
+
+#define IDS_PRESS_GO                     1
+#define IDS_PICKED                       2
+#define IDS_SHORTLY                      3
+#define IDS_PRESS_GO_AGAIN               4
+
+// Strings
+
+STRINGTABLE DISCARDABLE
+BEGIN
+   IDS_PRESS_GO                     "Press "Go" to start the machine"
+   IDS_PICKED                       "picked ball number "
+   IDS_SHORTLY                      "Balls will be selected shortly"
+   IDS_PRESS_GO_AGAIN               "Press "Go" to pick again"
+END
+
+// Strings End
+
