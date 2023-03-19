@@ -1,0 +1,102 @@
+Dear XXX
+
+Here is how to turn picker into a registered piece of software.
+
+0) Dont delete this mail, it contains important registration information
+	that will not be stored in a human readable format on your computer.
+
+1) start picker, keep this email visible as you will find it easier to
+	paste the details into picker rather than type the details in
+
+2) Press the About button If the version number is less than version
+	2.2.0 you need to download the latest version of picker from my website			
+					http://www.paglis.co.uk/picker/
+
+
+
+**************************************************************************
+* THE REGISTRATION DETAILS BELOW ARE ONLY VALID FOR PICKER32 VERSION 2.1.6
+**************************************************************************
+
+3) Enter your username 
+	XXX
+
+4a) Paste the following text into the password box
+	XXXX-XXXX-XXXX-XXXX
+
+4b) you should be able to use the same registration code in the
+	analysis program, which allows you to keep track of the numbers in
+	your lottery system.
+
+
+5) Press the register button. The picker will give you a brief message
+	thanking your for registering.
+
+That's it. Picker is now registered. This means that 
+
+
+a) picker won't ever whinge about not being registered
+
+b) You get added to my mailing list so that I can tell you when to go to
+	my website http://www.paglis.co.uk/ to pick up new versions of
+	picker. I dont give out details of anyone on my mailing list to anyone
+	else so you wont get any junk mail from any other organisations
+
+c) by registering you have entitled yourself to a discount of the next
+	version of picker. Picker is part of the growing picker suite which at
+	the moment consists of the picker itself and the analysis program. I am
+	currently in the process of adding a wheeling program and a prediction
+	program. These will be free to registered users.
+
+d) You get an electronic copy of my up and coming sci fi novel for free
+	if and when it gets published.
+
+e) If you have any feature requests I will try to implement them in as
+	short a time as possible.
+
+I've recently added the neat ability to customise picker into different
+languages, theres a new utility called lanfg_edit that allows you to
+customise picker into almost any language you like.
+
+Also in the options you can choose to use backdrop images. Picker will
+look for images on your hard drive in directories below where you
+installed picker and periodically load them into the background - behind
+the balls - like a peepshow.
+
+Also there is better online help to picker.
+
+you can download the latest version from my website
+http://www.paglis.co.uk/picker
+
+At the moment I'm adding performance, printing and prediction facilities
+to picker. I'll let you know when these are ready to download. 
+
+Thanks Again for registering, you've given me that extra determination
+to keep coding into the early hours of the night.
+
+Sunil
+
+Ps. dont delete this mail, the registration information is not stored in
+a way that you can read it on your machine. If you reinstall windows or
+change machine, you'll need this information again. 
+
+PPS. if you have made any suggestions, thankyou. however as a one man
+band, I'd like to but cant give any guarantees that  your  suggestions
+will make it into future versions of picker. the suggestions mechanism
+is a sort of Ideaware, people pay  for picker by sharing ideas, but some
+surprisingly and happily insist on paying money.
+
+PPS the following is for costly legal reasons. By registering you 
+have agreed to the following:
+
+	THIS SOFTWARE IS PROVIDED BY THE AUTHOR	``AS IS'' AND ANY EXPRESSED
+	OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+	WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+	ARE DISCLAIMED.	IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY
+	DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+	DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE
+	GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+	INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER
+	IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
+	OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
+	IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
